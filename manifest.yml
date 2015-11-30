@@ -2,5 +2,5 @@
 applications:
  - name: my-pg-studio
    buildpack: java_buildpack
-   #path: pgstudio.war
    path: pgstudio.war
+   #path: pgstudio-0.0.1-SNAPSHOT.war
